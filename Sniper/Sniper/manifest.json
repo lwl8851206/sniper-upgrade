@@ -1,0 +1,13 @@
+{
+  "name": "Sniper",
+  "description": "API Test Client for Mobile",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "app": {
+      "launch": {
+        "local_path": "index.html"
+      }
+  },
+  "icons": { "16": "icon_16.png", "128": "icon_128.png" },
+  "permissions": [ "cookies", "storage", "http://*/*", "https://*/*" ]
+}
