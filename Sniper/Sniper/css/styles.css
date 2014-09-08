@@ -935,6 +935,44 @@ li .right {
     margin-left: 10px;
 }
 
+
+/*added by weilong*/
+.request-helper-ecrypted-tool {
+    float: left;
+    color: #555;
+    font-size: 11px;
+    max-width: 400px;
+    margin-left: 50px;
+}
+
+.request-helper-ecrypted-tool h4 {
+    font-size: 12px;
+    text-transform: none;
+    padding-bottom: 0;
+}
+
+.request-helper-ecrypted-tool li {
+    list-style-type: none;
+    width : 310px;
+    word-break: break-all;
+    margin-left: -15px;
+}
+
+#missing-param {
+    color: green;
+}
+
+#missing-param .param {
+    color: red;
+}
+
+#ecrypted-result .app-api-sign{
+    color: red;
+    font-size: 1.2em;
+}
+
+/*added by weilong*/
+
 .request-helper-form-description h4 {
     font-size: 12px;
     text-transform: none;

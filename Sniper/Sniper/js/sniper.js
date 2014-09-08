@@ -508,6 +508,8 @@ pm.sniper = (function() {
         return false;
     }
 
+    
+
     return {
         initMapiConfigForm: initMapiConfigForm,
         initMiConfigForm: initMiConfigForm,
